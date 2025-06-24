@@ -68,7 +68,14 @@ A simple **Java Swing-based GUI application** for managing phonebook contacts. T
 
 ## 📷 Screenshots
 
-> (Add screenshots of your GUI here after testing — or I can help you create sample screenshots and insert them here)
+### ➕ Add Contact Interface
+![Add Contact](AddContact.PNG)
+
+### 🔍 Search Contact Result
+![Search Contact](searchContact.PNG)
+
+### 🎨 Colorful Output Display
+![Output Display](Output.PNG)
 
 ---
 
